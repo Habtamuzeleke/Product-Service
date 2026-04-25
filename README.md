@@ -1,6 +1,6 @@
 # Product-service
 
-![CI Status](https://github.com/Habtamuzeleke/Product-service/actions/workflows/ci.yml/badge.svg)
+[![CI Status](https://github.com/Habtamuzeleke/Product-service/actions/workflows/ci.yml/badge.svg)](https://github.com/Habtamuzeleke/Product-service/actions/workflows/ci.yml/badge.svg)
 https://github.com/Habtamuzeleke/Product-service/actions/workflows/ci.yml/badge.svg
 A RESTful product microservice built with Spring Boot 3.
 
